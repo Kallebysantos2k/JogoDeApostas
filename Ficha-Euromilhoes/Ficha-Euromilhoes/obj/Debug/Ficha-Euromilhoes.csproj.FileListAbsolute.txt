@@ -1,0 +1,10 @@
+D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\bin\Debug\Ficha-Euromilhoes.exe.config
+D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\bin\Debug\Ficha-Euromilhoes.exe
+D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\bin\Debug\Ficha-Euromilhoes.pdb
+D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.csprojAssemblyReference.cache
+D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha_Euromilhoes.Form1.resources
+D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha_Euromilhoes.Properties.Resources.resources
+D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.csproj.GenerateResource.cache
+D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.csproj.CoreCompileInputs.cache
+D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.exe
+D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.pdb
